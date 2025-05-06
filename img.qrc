@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/F3k201vakAEUJBv.png</file>
+        <file>img/编辑.png</file>
+        <file>img/删除.png</file>
+        <file>img/新建.png</file>
+        <file>img/对号.png</file>
+        <file>img/取消.png</file>
+        <file>img/文件夹.png</file>
+        <file>img/粘贴.png</file>
+        <file>img/播放.png</file>
+        <file>img/上.png</file>
+        <file>img/下.png</file>
+        <file>img/暂停.png</file>
+        <file>img/静音.png</file>
+        <file>img/音量.png</file>
+        <file>img/还原画布.png</file>
+        <file>img/全屏.png</file>
+        <file>img/关闭.png</file>
+        <file>img/最大化.png</file>
+        <file>img/最小化.png</file>
+    </qresource>
+</RCC>
